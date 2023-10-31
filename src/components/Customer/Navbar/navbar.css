@@ -1,0 +1,30 @@
+.customer-navbar {
+  width: 100%;
+  height: 70px;
+  background-color: grey;
+  display: flex;
+  padding: 10px;
+}
+
+.customer-navbar .left {
+  width: 30%;
+  height: 65px;
+  display: flex;
+  align-items: center;
+}
+
+.customer-navbar .right {
+  width: 70%;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  gap: 20px;
+  font-size: 20px;
+}
+
+.customer-navbar .right p {
+  cursor: pointer;
+  color: black;
+  font-weight: 1000;
+}

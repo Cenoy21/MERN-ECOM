@@ -1,0 +1,41 @@
+.add-category {
+  padding: 50px;
+  margin: 50px auto;
+}
+
+.add-category h1 {
+  text-align: center;
+}
+
+.add-category .form {
+  margin: 50px auto;
+  width: 500px;
+}
+
+.form Input {
+  margin-bottom: 10px;
+}
+
+.form label {
+  color: gray;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form .add-category-button {
+  margin-top: 20px;
+}
+
+.upload-div {
+  margin-top: 20px;
+}
+
+.upload-div label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.category-select {
+  width: 100%;
+  margin-top: 20px;
+}

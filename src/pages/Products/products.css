@@ -1,0 +1,35 @@
+.products-container {
+  padding: 20px;
+  width: 100%;
+}
+.products-container h1 {
+  font-size: 40px;
+}
+.products-btns {
+  position: fixed;
+  right: 20px; /* Adjust the value to control the distance from the right edge */
+  top: 100px; /* Adjust the value to control the distance from the top */
+  /* Add other styles as needed */
+}
+
+.products-table {
+  margin-top: 30px;
+  width: 100%;
+}
+.item-img {
+  width: 90px;
+  height: 100px;
+}
+delete-icon {
+  cursor: pointer;
+  color: rgb(245, 2, 2);
+  font-size: 20px;
+}
+
+.ant-table-wrapper {
+  width: 100%;
+}
+
+.ant-table {
+  width: 100%;
+}

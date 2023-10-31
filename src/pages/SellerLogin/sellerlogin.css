@@ -1,0 +1,38 @@
+.seller-login {
+  width: 400px;
+  height: 500px;
+  margin: 50px auto;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+    rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  border-radius: 10px;
+}
+
+.seller-login h1 {
+  text-align: center;
+  font-weight: 500;
+  padding: 20px;
+  color: #c70039;
+}
+
+.seller-login .form {
+  width: 350px;
+  height: 250px;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 15px;
+}
+
+.seller-login label {
+  font-weight: 400;
+}
+
+.seller-login .login-button {
+  margin-top: 20px;
+}
+
+.seller-login p {
+  width: 100%;
+  text-align: center;
+}

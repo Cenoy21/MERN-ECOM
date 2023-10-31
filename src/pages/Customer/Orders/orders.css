@@ -1,0 +1,31 @@
+.order {
+  display: flex;
+}
+
+.order-container {
+  padding: 20px;
+}
+
+.order-container h1 {
+  font-size: 40px;
+}
+
+.order-btns {
+  display: flex;
+  justify-content: end;
+  margin-top: 20px;
+}
+
+.order-table {
+  margin-top: 50px;
+}
+.delete {
+  font-size: 20px;
+  color: red;
+  cursor: pointer;
+}
+
+.order-img {
+  width: 50px;
+  height: 50px;
+}
